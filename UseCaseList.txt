@@ -1,26 +1,27 @@
-							Risk 				Value
+							Risk 				Value                 Team                      Dressing(Brief, Casual, Fully Dressed)
+							
 
 
 User Reqs
 
-Register Account					1				4	
-Update Account						1				2
-Deactivate Account					1				2
+Register Account					1				4	            a                           B
+Update Account						1				2                   b                           B
+Deactivate Account					1				2                   c                           B
 
-User Login 					    	0				4
+User Login 					    	0				4                   a,b,c                       B
 
-Search For Teachers					3				4
-Search Pianos for sale				3				4
-Search Piano Tuners					3				4
+Search For Teachers					3				4                   a                           C
+Search Pianos for sale					3				4                   b                           C
+Search Piano Tuners					3				4                   c                           C
 
-Book Teacher						3				4
-Buy Piano						    3				4
-Book Piano Tuner					3				4
+Book Teacher						3				4                   a                           C
+Buy Piano					        3				4                   b                           C
+Book Piano Tuner					3				4                   c                           C
 
-Rate Teacher						4				2
-Rate Tuner						    4				2
+Rate Teacher						4				2                  a,b,c                        F
+Rate Tuner						4				2                  a,b,c                        F
 	
-User Logout						    0				2
+User Logout					        0				2                  a,b,c                        B
 
 
 

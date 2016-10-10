@@ -1,0 +1,32 @@
+							Risk 				Value
+
+
+User Reqs
+
+Register Account					1				4	
+Update Account						1				2
+Deactivate Account					1				2
+
+User Login 					    	0				4
+
+Search For Teachers					3				4
+Search Pianos for sale				3				4
+Search Piano Tuners					3				4
+
+Book Teacher						3				4
+Buy Piano						    3				4
+Book Piano Tuner					3				4
+
+Rate Teacher						4				2
+Rate Tuner						    4				2
+	
+User Logout						    0				2
+
+
+
+OPTIONAL FUNCTIONALITY THAT I JUST MADE UP 
+
+Recommends Teacher based on Location. (i.e. if your profile address is Tralee it will recommend teachers based in Tralee)
+
+Rate Teacher/Tuner out of 5 (or recommend/not recommend)
+
